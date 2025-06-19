@@ -1,0 +1,270 @@
+[
+    {
+        "id": 789,
+        "name": "Rama",
+        "role": "Director",
+        "reportees": [
+            {
+                "id": 456,
+                "name": "Shivam",
+                "role": "Manager",
+                "reportees": [
+                    {
+                        "id": 123,
+                        "name": "Ravi",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1011,
+                        "name": "Krishna",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1415,
+                        "name": "Manoj",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1416,
+                        "name": "Ramesh",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1417,
+                        "name": "Meena",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1422,
+                        "name": "Krishna",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1425,
+                        "name": "Ajay",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1426,
+                        "name": "Krishna",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1428,
+                        "name": "Meena",
+                        "role": "Employee"
+                    }
+                ]
+            },
+            {
+                "id": 1213,
+                "name": "Sreekanth",
+                "role": "Employee"
+            },
+            {
+                "id": 1418,
+                "name": "Shivam",
+                "role": "Employee"
+            },
+            {
+                "id": 1419,
+                "name": "Krishna",
+                "role": "Manager",
+                "reportees": [
+                    {
+                        "id": 1446,
+                        "name": "Sreekanth",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1455,
+                        "name": "Kiran",
+                        "role": "Employee"
+                    }
+                ]
+            },
+            {
+                "id": 1420,
+                "name": "Neha",
+                "role": "Employee"
+            },
+            {
+                "id": 1421,
+                "name": "Kiran",
+                "role": "Manager",
+                "reportees": [
+                    {
+                        "id": 1429,
+                        "name": "Krishna",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1439,
+                        "name": "Neha",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1458,
+                        "name": "Ramesh",
+                        "role": "Employee"
+                    }
+                ]
+            },
+            {
+                "id": 1423,
+                "name": "Ramesh",
+                "role": "Employee"
+            },
+            {
+                "id": 1424,
+                "name": "Manoj",
+                "role": "Employee"
+            },
+            {
+                "id": 1427,
+                "name": "Ajay",
+                "role": "Employee"
+            },
+            {
+                "id": 1430,
+                "name": "Krishna",
+                "role": "Manager",
+                "reportees": [
+                    {
+                        "id": 1433,
+                        "name": "Ravi",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1438,
+                        "name": "Manoj",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1444,
+                        "name": "Priya",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1451,
+                        "name": "Anita",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1459,
+                        "name": "Vikram",
+                        "role": "Employee"
+                    }
+                ]
+            },
+            {
+                "id": 1431,
+                "name": "Rama",
+                "role": "Manager",
+                "reportees": [
+                    {
+                        "id": 1440,
+                        "name": "Manoj",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1441,
+                        "name": "Kiran",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1447,
+                        "name": "Rama",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1453,
+                        "name": "Priya",
+                        "role": "Employee"
+                    }
+                ]
+            },
+            {
+                "id": 1432,
+                "name": "Kiran",
+                "role": "Manager",
+                "reportees": [
+                    {
+                        "id": 1452,
+                        "name": "Sonal",
+                        "role": "Employee"
+                    }
+                ]
+            },
+            {
+                "id": 1434,
+                "name": "Kiran",
+                "role": "Employee"
+            },
+            {
+                "id": 1435,
+                "name": "Sreekanth",
+                "role": "Employee"
+            },
+            {
+                "id": 1436,
+                "name": "Vikram",
+                "role": "Manager"
+            },
+            {
+                "id": 1437,
+                "name": "Meena",
+                "role": "Manager",
+                "reportees": [
+                    {
+                        "id": 1448,
+                        "name": "Rama",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1456,
+                        "name": "Rama",
+                        "role": "Employee"
+                    }
+                ]
+            },
+            {
+                "id": 1442,
+                "name": "Priya",
+                "role": "Employee"
+            },
+            {
+                "id": 1443,
+                "name": "Rama",
+                "role": "Manager",
+                "reportees": [
+                    {
+                        "id": 1445,
+                        "name": "Kiran",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1449,
+                        "name": "Shivam",
+                        "role": "Employee"
+                    },
+                    {
+                        "id": 1454,
+                        "name": "Krishna",
+                        "role": "Employee"
+                    }
+                ]
+            },
+            {
+                "id": 1450,
+                "name": "Ramesh",
+                "role": "Manager"
+            },
+            {
+                "id": 1457,
+                "name": "Priya",
+                "role": "Employee"
+            }
+        ]
+    }
+]
